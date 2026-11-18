@@ -18,5 +18,6 @@ Get a Groq key at [console.groq.com/keys](https://console.groq.com/keys). It sta
 | --- | --- | --- |
 | 1 | [`class-01-first-call`](class-01-first-call/) | Load a key, send one chat call, print the reply |
 | 2 | [`class-02-prompt-engineering-basics`](class-02-prompt-engineering-basics/) | Move a tuned prompt into code as a page summarizer |
+| 3 | [`class-03-finish-the-app`](class-03-finish-the-app/) | Scrape a real page, harden the prompt, ship a Gradio UI |
 
 Open the class folder, copy `.env.example` to `.env`, put your key in, then run the Python file in that folder.
